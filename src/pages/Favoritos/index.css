@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.foto {
+  width: 50px;
+  
+}
+li {
+  display: flex;
+  align-items: center;
+  max-width: 300px;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.container .central{
+  display: flex;
+  align-items: center;
+  
+}
+.excluir {
+  background: #000;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+}
