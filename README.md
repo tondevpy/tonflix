@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/GCgCHkk/Screenshot-7.png" alt="TonFlix" />
 </p>
+<p align="center">Acessar site>: <a href="https://tonflixproject.netlify.app/">Site</a></p>
 
 # Projeto TonFlix
 O TonFlix é um projeto que utiliza a API do The Movie Database (TMDb) para listar filmes em exibição, permitindo que o usuário acesse informações detalhadas sobre cada filme, salve seus filmes favoritos em uma lista especial e assista aos trailers. Abaixo, você encontrará informações sobre como usar, instalar e contribuir para este projeto.
